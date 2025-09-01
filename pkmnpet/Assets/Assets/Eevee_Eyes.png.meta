@@ -145,7 +145,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -165,9 +165,9 @@ TextureImporter:
       name: Eevee_Eyes_1
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -187,9 +187,9 @@ TextureImporter:
       name: Eevee_Eyes_2
       rect:
         serializedVersion: 2
-        x: 512
+        x: 256
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -209,9 +209,9 @@ TextureImporter:
       name: Eevee_Eyes_3
       rect:
         serializedVersion: 2
-        x: 768
+        x: 384
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -231,9 +231,9 @@ TextureImporter:
       name: Eevee_Eyes_4
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 512
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -245,6 +245,116 @@ TextureImporter:
       bones: []
       spriteID: 92346424ceed74d72ae414eccb0fdace
       internalID: -1194462361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Eyes_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11116f7488662489b84fd2aef1d519ee
+      internalID: -1240247283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Eyes_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b94035ae104c15bfa87cd92ac4910
+      internalID: 1537490287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Eyes_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b637fe1aa24dd4baf18a6089be0c7
+      internalID: -390851806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Eyes_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe37f55421e648aea77aa284b7997d3
+      internalID: 1846661597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Eyes_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b31236248e4acfa6da0ae83e4ff58
+      internalID: 1805745775
       vertices: []
       indices: 
       edges: []
@@ -268,6 +378,11 @@ TextureImporter:
       Eevee_Eyes_2: 1377998013
       Eevee_Eyes_3: -718774305
       Eevee_Eyes_4: -1194462361
+      Eevee_Eyes_5: -1240247283
+      Eevee_Eyes_6: 1537490287
+      Eevee_Eyes_7: -390851806
+      Eevee_Eyes_8: 1846661597
+      Eevee_Eyes_9: 1805745775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
