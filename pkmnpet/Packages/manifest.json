@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.daniel-geo.unityhackatime": "file:/Users/timothyjones/Downloads/unity-hackatime-main/Assets/com.daniel-geo.unityhackatime",
     "com.unity.collab-proxy": "2.9.2",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.36",

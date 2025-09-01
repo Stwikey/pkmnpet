@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tail
+    uniqueID: 2125923993
+    locked: 0
+  - name: Body
+    uniqueID: 1507537819
+    locked: 0
+  - name: Scarf
+    uniqueID: 888956969
+    locked: 0
+  - name: FrontFeet
+    uniqueID: 1680260809
+    locked: 0
+  - name: Feet
+    uniqueID: 3839553393
+    locked: 0
+  - name: Face
+    uniqueID: 1172294971
+    locked: 0
+  - name: Ears
+    uniqueID: 1565978155
+    locked: 0
+  - name: Eyes
+    uniqueID: 352488213
+    locked: 0
+  - name: Mouth
+    uniqueID: 648312725
+    locked: 0
+  m_RenderingLayers:
+  - Default
