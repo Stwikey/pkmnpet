@@ -133,7 +133,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -153,9 +153,9 @@ TextureImporter:
       name: Eevee_Feet_1
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -175,9 +175,9 @@ TextureImporter:
       name: Eevee_Feet_2
       rect:
         serializedVersion: 2
-        x: 512
+        x: 256
         y: 0
-        width: 256
+        width: 128
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -189,6 +189,72 @@ TextureImporter:
       bones: []
       spriteID: 4ea9c3532d3e045df8129a5f3be6f88f
       internalID: 664720446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Feet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd71e5953d843d3a1603ec7388428b
+      internalID: -2053012864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Feet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a8141e1a5742d2a0f1e607d26499b
+      internalID: -1294940759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eevee_Feet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a35881f59274fdcba98bc38c8b2a4d
+      internalID: -576873630
       vertices: []
       indices: 
       edges: []
@@ -210,6 +276,9 @@ TextureImporter:
       Eevee_Feet_0: 2073050659
       Eevee_Feet_1: 660306711
       Eevee_Feet_2: 664720446
+      Eevee_Feet_3: -2053012864
+      Eevee_Feet_4: -1294940759
+      Eevee_Feet_5: -576873630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
