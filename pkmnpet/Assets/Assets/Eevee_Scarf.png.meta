@@ -132,10 +132,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 08b9401dec7874306b939aa162f3ee66
-      internalID: -496120474
+      spriteID: 204fbce21722332e0800000000000000
+      internalID: -2147334727813827582
       vertices: []
       indices: 
       edges: []
@@ -154,10 +154,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3984b9a23c57c41a1b50d7a7bb1c1d4f
-      internalID: -176490966
+      spriteID: 3ce8d662230f98200800000000000000
+      internalID: 182941358068960963
       vertices: []
       indices: 
       edges: []
@@ -176,10 +176,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f9c4f039271244a84823c6090638799a
-      internalID: -660427595
+      spriteID: d35f46ee9b90ef830800000000000000
+      internalID: 4106730604381664573
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 62f5e55d57ed147bb9f199c958ea7eeb
+    spriteID: 8089b3638303d45e4851857a19794ef7
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Eevee_Scarf_0: -496120474
-      Eevee_Scarf_1: -176490966
-      Eevee_Scarf_2: -660427595
+      Eevee_Scarf_0: -2147334727813827582
+      Eevee_Scarf_1: 182941358068960963
+      Eevee_Scarf_2: 4106730604381664573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
