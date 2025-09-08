@@ -22,6 +22,7 @@ public class LeftFrontFeet : MonoBehaviour
         {
             anim.SetBool("Raise", true);
             anim.SetBool("Open", false);
+            state = "";
 
         }
         else if (state == "OPEN")
